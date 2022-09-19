@@ -1,0 +1,18 @@
+.odd-numbered-elements {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, "DejaVu Sans";
+  background-color: pink;
+}
+
+#number-two {
+  color: blue;
+  font-size: 36px;
+}
+
+.number-three,
+#number-four {
+  font-size: 24px;
+}
+#number-four {
+  background-color: lightgreen;
+  font-weight: bold;
+}
